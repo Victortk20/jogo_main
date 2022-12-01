@@ -1,0 +1,78 @@
+Body{
+    background-image: url(Imagem/bg.png);
+    
+}
+#box{
+    
+    background-color: #343056;
+    width: 500px;
+    height: 400px;
+    margin-top: 130px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 200px;
+    font-family: 'Fredoka', sans-serif;
+    font-size: 20px;
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+}
+.color1 {color: #343056;}
+.color2 {color: #594172;}
+.color3 {color: #925a98;}
+.color4 {color: #e17dc8;}
+.color5 {color: #ffaafe;}
+
+#cabecalho{
+    background-color: #594172;
+    color: white;
+    padding: 20px;
+    
+    font-family: 'Fredoka', sans-serif;
+}
+#texto{
+    background-color: #e17dc8;
+    color: white;
+    font-family: 'Fredoka', sans-serif;
+    
+}
+
+#corpo{
+    background-color:#925a98;
+    color: black;
+    font-family: 'Fredoka', sans-serif;
+    margin-top: auto;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: auto;
+}
+
+#roda-pe{
+    background-color: #e17dc8;
+    color: white;
+    position: absolute;
+    width: 100%;
+    height: 25%;
+    padding-top: 10px;
+    padding-left: 50px;
+    padding-bottom:71px;
+    padding-bottom:8vmax;
+    font-family: 'Fredoka', sans-serif;
+}
+
+#faq{
+    font-family: 'Fredoka', sans-serif;
+    background-color:#ffaafe;
+    height: 150px;
+    width: 100%;
+    max-width: 1500px;
+    margin: 0 auto;
+    padding-top: 65px;
+    padding-left: 250px;
+    padding-right: 35px;
+}
+#detalhes{
+    background-color: bisque;
+    font-family: 'Fredoka', sans-serif;
+}
